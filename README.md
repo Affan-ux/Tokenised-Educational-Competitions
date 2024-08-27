@@ -1,6 +1,9 @@
 # Tokenized Educational Competitions
+![education-competition-high-resolution-logo](https://github.com/user-attachments/assets/4f907e9e-f7cf-4315-88ff-0a26f8db7c94)
 
-## Vision
+
+## Vision!
+
 The Tokenized Educational Competitions project aims to integrate blockchain technology into educational competitions by using a custom ERC-20 token, **EduToken**, as rewards for competition winners. This system encourages participation and engagement in educational activities, ensuring transparency and security through smart contracts on the Ethereum blockchain.
 
 ## Flowchart
