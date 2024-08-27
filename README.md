@@ -21,11 +21,6 @@ The Tokenized Educational Competitions project aims to integrate blockchain tech
    - **View Scores:** Retrieve individual scores.
    - **Competition Details:** Get the winner, winning score, and end time.
 
-## Contract Addresses
-
-- **EduToken Contract Address:** `[Insert address here]`
-- **TokenizedCompetition Contract Address:** `[Insert address here]`
-
 ## Future Scope
 
 1. **Token Ownership Control:** Implement ownership checks for `mint` and `burn` functions to restrict access.
