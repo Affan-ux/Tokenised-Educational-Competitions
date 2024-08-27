@@ -7,7 +7,7 @@ The Tokenized Educational Competitions project aims to integrate blockchain tech
 
 1. **Deploy EduToken Contract:**
    - Initialize the token with a supply.
-   - Contract Address: `[Insert address here]`
+   - Contract Address: `0x873710129e1f9534309ebACE9Dae1e2C25f572B3`
 
 2. **Deploy TokenizedCompetition Contract:**
    - Pass the EduToken contract address and competition duration.
