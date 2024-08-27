@@ -7,8 +7,11 @@ The Tokenized Educational Competitions project aims to integrate blockchain tech
 
 1. **Deploy EduToken Contract:**
    - Initialize the token with a supply.
+   - Contract Address: `[Insert address here]`
+
 2. **Deploy TokenizedCompetition Contract:**
    - Pass the EduToken contract address and competition duration.
+   - Contract Address: `0x873710129e1f9534309ebACE9Dae1e2C25f572B3`
 
 3. **Competition Lifecycle:**
    - **Register Participants:** Owner registers participants before the competition end time.
@@ -21,6 +24,10 @@ The Tokenized Educational Competitions project aims to integrate blockchain tech
    - **View Scores:** Retrieve individual scores.
    - **Competition Details:** Get the winner, winning score, and end time.
 
+## Contract Addresses
+
+- **EduToken Contract Address:** `0x873710129e1f9534309ebACE9Dae1e2C25f572B3`
+
 ## Future Scope
 
 1. **Token Ownership Control:** Implement ownership checks for `mint` and `burn` functions to restrict access.
@@ -31,7 +38,6 @@ The Tokenized Educational Competitions project aims to integrate blockchain tech
 ## Contact
 
 For any questions or further information, please reach out:
-
 - **Developer:** `MD AFFAN KHAN`
 - **Email:** `mdaffankhanbtcs@adtu.in`
 - **GitHub:** `https://github.com//affan-ux`
